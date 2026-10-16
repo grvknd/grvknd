@@ -20,7 +20,7 @@
 - 🚀 Currently studying.
 - 🤝 Open for Collaborations 
 - 📧 Connect with me easily on Discord or mail me at: [grv19kundu@gmaiil.com](mailto:grv19kundu@gmaiil.com)
-- 🛠 I have a solid background in **SQL, C++, Data Structures, and Algorithms**.
+- 🛠 I have a solid background in **SQL,Python, C++, Data Structures, and Algorithms**.
 
 ###
 
