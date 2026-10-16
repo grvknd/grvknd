@@ -16,7 +16,8 @@
 
 ### 👨‍💻 About Me:
 
-- 🎓 I'm a **3rd-year B.Tech Computer Science** student at **Sister Nivedita University**.
+- 🎓 I'm a **B.Tech Computer Science**
+- graduate from**Sister Nivedita University**.
 - 🚀 Currently studying.
 - 🤝 Open for Collaborations 
 - 📧 Connect with me easily on Discord or mail me at: [grv19kundu@gmaiil.com](mailto:grv19kundu@gmaiil.com)
